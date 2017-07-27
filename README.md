@@ -17,9 +17,13 @@ Resigter a domain for it
 
 @licence
 This program is being licenced under GNU Public Licence V2
+Import gpl
 
+Server side is licensed under Affero General Public Licence V3
+Import agpl
 @许可
-以GPLv2许可。
+客户端以GPLv2许可。
+服务器端以AGPLv3许可。
 
 @Announcement
 This project has nothing to do with Shadowsocks.
