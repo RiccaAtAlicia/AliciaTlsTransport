@@ -6,9 +6,9 @@ Unlike SSR's SSL obfs,ATTr will use a cert and a domain.In order to make it more
 Alicia Tls Transport 是一个把自己伪装成正常tls连接的隧道应用（其他混淆方式将在将来出现）我们真的使用证书，使得它更难被发现。我们甚至让它和普通网页服务器共享443端口。当没有正确key的用户访问时，他们会得到正常的Web页面或是403错误。
 
 @Waring
-Please Read [Security Tips](Docs/Meta/Security)
+Please Read [Security Tips](https://github.com/RiccaAtAlicia/AliciaTlsTransport/blob/master/Docs/Meta/Security.md)
 
-@警告，请先读 [Security Tips](Docs/Meta/Security)
+@警告，请先读 [Security Tips](https://github.com/RiccaAtAlicia/AliciaTlsTransport/blob/master/Docs/Meta/Security.md)
 
 @TODO
 Make cross-platform client (for Windows, Linux, Android and Mac.)
