@@ -1,2 +1,2 @@
- #Alicia TlsTransport的github pages#
- 请先阅读该项目的readme.md [Readme](https://github.com/RiccaAtAlicia/AliciaTlsTransport/readme.md)
+# Alicia Tls Transport 的 GitHub Pages
+请先阅读本项目的 [README.md](https://github.com/RiccaAtAlicia/AliciaTlsTransport/blob/master/README.md)
