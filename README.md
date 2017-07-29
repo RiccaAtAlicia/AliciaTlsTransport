@@ -23,11 +23,10 @@ Resigter a domain for it
 为它注册域名
 
 # Licence
-This program is being licenced under GNU General Public Licence V2
-Import gpl
+This program is licensed under [GNU General Public Licence version 2](LICENSE.GPLv2.txt)
 
-The server-side program is licensed under GNU Affero General Public Licence V3
-Import agpl
+The server-side program is licensed under [GNU Affero General Public Licence version 3](LICENSE.AGPLv3.txt)
+
 
 # 许可
 客户端以 GNU GPLv2 许可。
