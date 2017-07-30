@@ -1,6 +1,6 @@
 # About
 Alicia Tls Transport is a tunnel program that obfuscates itself into a normal TLS connection (other obfuscations are coming).
-Unlike SSR's SSL obfs,ATTr will use a cert and a domain. It even shares TCP port 443 with normal HTTPS web servers, in order to make it more difficult to be identified. Those who access your server without a proper key will get a normal page (or a 403 for non-existing pages)
+Unlike SSR's SSL obfs,ATTr will use a cert and a domain. It even shares TCP port 443 with normal HTTPS web servers, in order to make it more difficult to be identified. Those who access your server without a proper key will get a normal page (or a 403 for non-existing virtual pages)
 
 # 关于
 Alicia Tls Transport 是一个把自己伪装成正常 TLS 连接的隧道应用（其他混淆方式将在将来出现）
@@ -32,8 +32,8 @@ The server-side program is licensed under [GNU Affero General Public Licence ver
 客户端以 GNU GPLv2 许可。
 服务器端以 GNU AGPLv3 许可。
 
-# Disclaimer
+# Announcement
 This project has nothing to do with Shadowsocks.
 
-# 免责声明
+# 声明
 本项目与 Shadowsocks 及其相关软件项目没有任何关系。
